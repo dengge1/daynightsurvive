@@ -3,3 +3,4 @@
 knifeapi.amxx                                                                                                                                               
 knife_shelteraxe.amxx                                                                                                                                             
 DNS_Combined.amxx
+                                                                                                                                                            支持任何地图，不限制地图
