@@ -6,4 +6,6 @@ DNS_Combined.amxx
 支持任何地图，不限制地图   
 游戏都没啥人玩了（确信）
 以上全部由deepseek生成bind "b" "build"建筑菜单   M解决卡住
+开发版本AMXX  1.10
+
                                                                                                                                                             
