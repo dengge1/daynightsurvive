@@ -8,7 +8,7 @@ DNS_Combined.amxx
 
 代码全部由deepseek生成
 
-bind "b" "build"建筑菜单   M解决卡住
+bind "b" "build"建筑菜单   M键解决卡住
 
 开发版本AMXX  1.10
 
