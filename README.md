@@ -9,7 +9,7 @@ DNS_Combined.amxx
 支持任何地图，不限制地图   
 游戏都没啥人玩了（确信）
 
-代码全部由deepseek生成
+代码全部由deepseek网页端快速模式生成
 
 bind "b" "build"建筑菜单  
 skills技能菜单     M键武器商店与解决卡住
