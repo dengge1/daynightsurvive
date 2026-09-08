@@ -1,4 +1,6 @@
-1.下载项目文件夹内的DNS_Combined.amxx                                                                                                                                         
+1.下载项目文件夹内的DNS_Combined.amxx   117kb                                                                             
+
+
 2.plugins.ini文件添加                                                                                                                                       
 knifeapi.amxx                                                                                                                                                                                                         
 DNS_Combined.amxx                                                                                                                                        
@@ -7,12 +9,15 @@ DNS_Combined.amxx
 
 代码全部由deepseek生成
 
-bind "b" "build"建筑菜单   M键解决卡住
+bind "b" "build"建筑菜单  
+skills技能菜单     M键武器商店与解决卡住
 
 开发版本AMXX  1.10
 
 当前系统已经开发完毕，下载文件夹内的DNS_Combined.amxx
-但没有完全开源
+
+
+没有完全开源，因为源文件已经删了，我拿inc开发另一个版本，暂时不考虑开源
                                                                                                                                                             
 ReGameDLL实现无限回合
 如何实现无限回合？
