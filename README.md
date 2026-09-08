@@ -1,6 +1,8 @@
 1.下载项目文件夹内的DNS_Combined.amxx   117kb                                                                             
 
 
+注意部分地图会导致游戏崩溃，这个是游戏引擎限制，单机启动游戏实体数量承受不住直接崩溃。
+
 2.plugins.ini文件添加                                                                                                                                       
 knifeapi.amxx                                                                                                                                                                                                         
 DNS_Combined.amxx                                                                                                                                        
