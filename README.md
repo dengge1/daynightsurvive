@@ -1,7 +1,6 @@
-1.下载nopesma.7z                                                                                                                                           
+1.下载项目文件夹内的DNS_Combined.amxx                                                                                                                                         
 2.plugins.ini文件添加                                                                                                                                       
-knifeapi.amxx                                                                                                                                              
-knife_shelteraxe.amxx                                                                                                                                      
+knifeapi.amxx                                                                                                                                                                                                         
 DNS_Combined.amxx                                                                                                                                        
 支持任何地图，不限制地图   
 游戏都没啥人玩了（确信）
